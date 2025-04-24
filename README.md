@@ -21,14 +21,18 @@ Avaliação do desempenho de vendas em diferentes categorias de moda (vestidos, 
 Direcionamento de ações de marketing, planejamento de estoque e lançamento de coleções.
 
 🛠️ Tecnologias Utilizadas
+
 Python 🐍 
+
 SQL 🗄️
 
 Power BI 📊 
 
 Google Sheets 📑 (para coleta e organização de dados)
 
+
 📈 Principais Indicadores Monitorados
+
 🛒 Taxa de conversão de vendas
 
 🧵 Produto mais vendido por temporada
