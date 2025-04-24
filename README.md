@@ -1,5 +1,7 @@
 # Tendencias_e_Vendas_de_Moda_Feminina
+
 👗 Tendências e Vendas de Moda Feminina
+
 📊 Análise Estratégica de Compras, Preferências e Vendas no Setor de Moda Feminina
 
 🎯 Objetivo
