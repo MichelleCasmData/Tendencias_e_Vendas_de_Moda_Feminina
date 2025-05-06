@@ -1,71 +1,82 @@
-# Tendencias_e_Vendas_de_Moda_Feminina
+![Banner](https://raw.githubusercontent.com/MichelleCasmData/Tendencias_e_Vendas_de_Moda_Feminina/main/assets/banner-moda-dados.gif)
 
-👗 Tendências e Vendas de Moda Feminina
+# 👗 Tendências e Vendas de Moda Feminina
 
-📊 Análise Estratégica de Compras, Preferências e Vendas no Setor de Moda Feminina
+📊 **Análise Estratégica de Compras, Preferências e Vendas no Setor de Moda Feminina**
 
-🎯 Objetivo
-Este projeto tem como objetivo analisar o comportamento de compra, identificar preferências sazonais e avaliar a performance de vendas nas principais categorias de moda feminina, fornecendo insights estratégicos para a tomada de decisão e otimização de campanhas de marketing e estoque.
+---
 
-🔍 Escopo da Análise
-📈 Comportamento de Compra:
+## 🎯 Objetivo do Projeto
+
+Analisar o **comportamento de compra**, identificar **preferências sazonais** e avaliar a **performance de vendas** nas principais categorias de moda feminina. O foco é fornecer **insights estratégicos** para:
+
+- 📈 Tomada de decisões baseadas em dados  
+- 📦 Otimização de estoque  
+- 📢 Campanhas de marketing mais eficientes
+
+---
+
+## 🔍 Escopo da Análise
+
+### 📈 Comportamento de Compra
 Análise dos padrões de aquisição das consumidoras ao longo do tempo.
 
-🛍️ Preferências Sazonais:
-Identificação de categorias de produtos e estilos mais procurados em cada estação do ano.
+### 🛍️ Preferências Sazonais
+Identificação de categorias e estilos mais buscados por estação do ano.
 
-🧥 Performance de Categorias:
-Avaliação do desempenho de vendas em diferentes categorias de moda (vestidos, calçados, acessórios, etc.).
+### 🧥 Performance por Categoria
+Avaliação do desempenho de vendas em categorias como vestidos, calçados, acessórios, etc.
 
-🎯 Recomendações Estratégicas:
-Direcionamento de ações de marketing, planejamento de estoque e lançamento de coleções.
+### 📌 Recomendações Estratégicas
+Direcionamento de ações para marketing, planejamento de estoque e lançamentos.
 
-🛠️ Tecnologias Utilizadas
+---
 
-Python 🐍 
+## 🛠️ Tecnologias Utilizadas
 
-SQL 🗄️
+| Linguagem/Ferramenta | Finalidade |
+|----------------------|------------|
+| 🐍 Python            | Análise e manipulação de dados |
+| 🗄️ SQL               | Consultas e modelagem de dados |
+| 📊 Power BI         | Visualização de dashboards e KPIs |
+| 📑 Google Sheets    | Coleta, estruturação e organização dos dados |
 
-Power BI 📊 
+---
 
-Google Sheets 📑 (para coleta e organização de dados)
+## 📊 Indicadores Monitorados
 
+- 🛒 **Taxa de conversão de vendas**  
+- 🧵 **Produto mais vendido por temporada**  
+- 👠 **Tendências emergentes por categoria**  
+- 🕑 **Tempo médio entre visita e compra**  
+- 💸 **Ticket médio por compra**
 
-📈 Principais Indicadores Monitorados
+---
 
-🛒 Taxa de conversão de vendas
+## 👩‍💼 Público-Alvo
 
-🧵 Produto mais vendido por temporada
+Este projeto pode ser útil para:
 
-👠 Tendências emergentes por categoria
+- Equipes de **Marketing** e **Produto** de marcas de moda  
+- Profissionais de **Dados e BI**  
+- **Gestores Comerciais** que atuam com sazonalidade  
+- **Empreendedores fashion** buscando dados para tomar decisões melhores
 
-🕑 Tempo médio entre a primeira visita e a compra
+---
 
-💸 Ticket médio por compra
+## ✨ Resultados Esperados
 
-👩‍💼 Público-Alvo
-- Times de Marketing e Produto de marcas de moda feminina
+✅ Otimização do mix de produtos  
+📢 Campanhas sazonais mais assertivas  
+📦 Redução de estoque parado  
+💖 Aumento da satisfação e fidelização de clientes  
 
-- Analistas de Dados e Business Intelligence
+---
 
-- Gestores Comerciais focados em otimizar vendas sazonais
+> _Feito com 💖 para transformar dados em decisões estratégicas no mundo da moda._
 
-- Empreendedores do setor fashion
+---
 
-
-✨ Resultados Esperados
-Otimização do mix de produtos 🛍️
-
-- Melhoria nas campanhas sazonais 📢
-
-- Redução de estoque parado 📦
-
-- Aumento da satisfação e fidelização de clientes 👗
-
-     
-       Feito com 💖 para transformar dados em decisões estratégicas no mundo da moda!
-
-
-
-
+📬 Feedbacks, colaborações ou ideias?  
+Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/michellecasmendes) ou abra uma issue aqui no repositório!
 
