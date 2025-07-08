@@ -36,7 +36,6 @@ Direcionamento de ações para marketing, planejamento de estoque e lançamentos
 
 | Linguagem/Ferramenta | Finalidade |
 |----------------------|------------|
-| 🐍 Python            | Análise e manipulação de dados |
 | 🗄️ SQL               | Consultas e modelagem de dados |
 | 📊 Power BI         | Visualização de dashboards e KPIs |
 | 📑 Google Sheets    | Coleta, estruturação e organização dos dados |
