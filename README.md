@@ -79,5 +79,5 @@ Este projeto pode ser útil para:
 
 📬 Feedbacks, colaborações ou ideias?  
 Entre em contato comigo no [LinkedIn](https://www.linkedin.com/in/michellecasmendes) ou abra uma issue aqui no repositório!
->>>>>>> 8d5c1b099260fc803e6dbcf9e12ee813bc2e9557
+
 
