@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tendencias_e_Vendas_de_Moda_Feminina
 
 👗 Tendências e Vendas de Moda Feminina
